@@ -1,6 +1,6 @@
 # Foodie_Chatbot
 
-#in Anaconda prompt cmd type the below commands
+#in Anaconda prompt cmd type the below commands shown in link.
 
 https://drive.google.com/drive/folders/1nF8nEVwLbAscFQEZk_F4Y77QlOLxrGbd
 
